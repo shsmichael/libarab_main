@@ -31,8 +31,7 @@ public class Progress extends AppCompatActivity {
         });
 
 
-
-        addQuestionButton = (Button) findViewById(R.id.button);
+        // TODO: 23/10/2016 dania  addQuestionButton = (Button) findViewById(R.id.button);
         addQuestionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
