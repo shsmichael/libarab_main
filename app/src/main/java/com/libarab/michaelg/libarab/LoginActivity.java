@@ -58,6 +58,7 @@ import static android.Manifest.permission.READ_CONTACTS;
  */
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
 
+
     private static final int REQUEST_READ_CONTACTS = 0;
 
     private UserLoginTask mAuthTask = null;
