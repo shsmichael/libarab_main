@@ -22,6 +22,60 @@
     <string name="menu">תפריט</string>
     <string name="settings_chose_lang">לחץ לשינוי שפה</string>
     <string name="settings_lang">שפה</string>
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fav_navigation_drawer_open">Open the menu</string>
+    <string name="fav_navigation_drawer_close">Close menu</string>
+    <string name="menu_favorite">Collect</string>
+    <string name="menu_more">menu</string>
+    <string name="menu_browser">Open the browser</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+    <string-array name="Lan_array">
+        <item>English</item>
+        <item>עברית</item>
+        <item>العربيه</item>
+    </string-array>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="entryvalues_list_preference">
+        <item>English</item>
+        <item>עברית</item>
+        <item>العربيه</item>
+    </string-array>
     <string-array name="Gender_array">
         <item>Gender</item>
         <item>Male</item>
